@@ -1,1 +1,27 @@
-/* Inserta tu código aqui */
+
+hr{
+	width: 70px;
+	border: 1px solid black;
+	margin-left: 0px;
+}
+img{
+	opacity: 1;
+}
+body{
+	margin-left: 20px;
+	margin-right: 200px;
+}
+.foto {
+	width: 260px;
+	height: 260px;
+	position: relative;
+	display: inline-block;
+	left: 80px;
+	margin: 15px;
+}
+#nombre {
+	position: absolute;
+	top: 170px;
+	left: 80px;
+	color: #fff;
+}
